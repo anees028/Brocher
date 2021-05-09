@@ -4,7 +4,6 @@
 @import './footer.css';
 @import './footercol4.css';
 @import './social_media_icons.css';
-
 *, *::before, *::after {
   font-family: Gotham Rounded, sans-serif;
   box-sizing: border-box;
