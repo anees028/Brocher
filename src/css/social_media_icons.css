@@ -1,0 +1,46 @@
+.container{
+    background: #eee;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.container .conntainer-heading p{
+    color: black;
+    font-weight: bold;
+}
+
+
+/* SOCIAL STUFF */
+.social-container {
+padding: 8px 50px;
+width: 100%;
+display: flex;
+justify-content: center;
+}
+a.social {
+margin: 0 1.5rem;
+transition: transform 250ms;
+display: inline-block;
+}
+
+a.social:hover {
+transform: translateY(-2px);
+}
+
+a.youtube {
+color: #eb3223;
+}
+
+a.facebook {
+color: #4968ad;
+}
+
+a.whatsapp {
+color: rgb(21, 185, 40);
+}
+
+a.instagram {
+color: black;
+}

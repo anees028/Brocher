@@ -1,6 +1,9 @@
 @import-normalize;
 @import './font.css';
 @import './navbar.css';
+@import './footer.css';
+@import './footercol4.css';
+@import './social_media_icons.css';
 
 *, *::before, *::after {
   font-family: Gotham Rounded, sans-serif;
