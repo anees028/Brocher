@@ -1,0 +1,19 @@
+@import-normalize;
+@import './font.css';
+@import './navbar.css';
+
+*, *::before, *::after {
+  font-family: Gotham Rounded, sans-serif;
+  box-sizing: border-box;
+}
+
+.App {
+ width: 100vw;
+ height: 100vh;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
