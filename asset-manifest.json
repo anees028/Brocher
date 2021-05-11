@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Brocher/static/css/main.5b65a1dc.chunk.css",
+    "main.css": "/Brocher/static/css/main.f0d2efae.chunk.css",
     "main.js": "/Brocher/static/js/main.10910d68.chunk.js",
     "main.js.map": "/Brocher/static/js/main.10910d68.chunk.js.map",
     "runtime-main.js": "/Brocher/static/js/runtime-main.5d15f76f.js",
@@ -8,14 +8,14 @@
     "static/js/2.a5d638ed.chunk.js": "/Brocher/static/js/2.a5d638ed.chunk.js",
     "static/js/2.a5d638ed.chunk.js.map": "/Brocher/static/js/2.a5d638ed.chunk.js.map",
     "index.html": "/Brocher/index.html",
-    "static/css/main.5b65a1dc.chunk.css.map": "/Brocher/static/css/main.5b65a1dc.chunk.css.map",
+    "static/css/main.f0d2efae.chunk.css.map": "/Brocher/static/css/main.f0d2efae.chunk.css.map",
     "static/js/2.a5d638ed.chunk.js.LICENSE.txt": "/Brocher/static/js/2.a5d638ed.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Brocher/static/media/GothamRounded-Light.c27e2b47.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.5d15f76f.js",
     "static/js/2.a5d638ed.chunk.js",
-    "static/css/main.5b65a1dc.chunk.css",
+    "static/css/main.f0d2efae.chunk.css",
     "static/js/main.10910d68.chunk.js"
   ]
 }
