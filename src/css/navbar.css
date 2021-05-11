@@ -46,8 +46,9 @@
     font-weight: bold;
 }
 .active{
-    color:#03A1FD;
+    color:#3eb6fc;
 }
+
 
 .Navbar .rightSide .btn{
     display: flex;
